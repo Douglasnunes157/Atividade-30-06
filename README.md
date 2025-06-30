@@ -1,2 +1,6 @@
 # Atividade-30-06
-curso:full stack
+
+Curso: full stack
+Escola Senai
+
+esse projeto é sobre uma página HTML
